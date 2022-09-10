@@ -1,0 +1,12 @@
+#counter {
+    font-size: 80px;
+    display: block;
+    text-align: center;
+}
+#decrease {
+    margin-left: 205px;
+}
+#reset {
+    margin-left:20px;
+    margin-right: 20px;
+}
