@@ -1,0 +1,15 @@
+#title {
+    text-align: center;
+    color:blueviolet;
+    font-family: 'Oswald', sans-serif;
+    box-shadow: 2px 2px 2px blueviolet;
+}
+div {
+    font-family: 'Oswald', sans-serif;
+}
+#dateout {
+    text-align: center;
+}
+#timeout {
+    text-align: center;
+}
