@@ -1,4 +1,9 @@
-#timer{
+#clockname{
+    text-align: center;
+    background-color: honeydew;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
 }
 .timebutton{
     width:70px;
