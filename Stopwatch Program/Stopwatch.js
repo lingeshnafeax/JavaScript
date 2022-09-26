@@ -43,8 +43,8 @@ function updatetime(){
     mins=Math.floor((elapsed_time/(1000*60))%60)
     hours=Math.floor((elapsed_time/(1000*60*60))%60)
     secs=pad(secs)
+    mins=pad(mins)
     hours=pad(hours)
-    mins=pad(hours)
     function pad(unit){
         if((("0"+unit).length)>2){
             return(unit)
